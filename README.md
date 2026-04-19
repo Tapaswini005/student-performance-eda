@@ -105,7 +105,6 @@ EDA-Project/
 ├── notebook/
 │   └── eda_analysis.ipynb
 │
-├── README.md
-└── requirements.txt
+└── README.md.
 ```
 
